@@ -1,0 +1,15 @@
+{
+  "name": "FullStack",
+  "version": "1.0.0",
+  "description": "Application Demo",
+  "main": "index.js",
+  "repository": "https://github.com/carfi/fullstack.git",
+  "author": "Davide Carfi",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^0.11.4"
+  }
+}
